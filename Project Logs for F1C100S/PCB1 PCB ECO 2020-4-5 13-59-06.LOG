@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USB_DM Pin=USBC1-A6
+Removed Pin From Net: NetName=USB_DP Pin=USBC1-A7
+Added Pin To Net: NetName=USB_DP Pin=USBC1-A6
+Added Pin To Net: NetName=USB_DM Pin=USBC1-A7
+Added Room: Name=sheet1
